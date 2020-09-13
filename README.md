@@ -1,4 +1,4 @@
-# CCNA2020_DHCP
+# CCNA2020_DHCPv4
 Dynamic Host Config Protocol
 
 最常見的情境是 Wi-Fi AP 配置靜態 IP 予進入此私有網域的設備如手機或筆電。（飛機上或是捷運內。）
@@ -69,5 +69,9 @@ ask: Hi 請問你是 DHCP server 嗎？我是新加入的成員，需要有個�
 # Free IP Resorces
 
 當設備關機或是離開此區域網域時，這些 IP 位址會歸還。
+
+# DHCPv6
+
+因為 IPv6 位址很多，並非如同 IPv4 位址那樣數量那麼有限，所以 DHCPv6 有另外的運作方式，此議題不詳述。
 
 (to be continued...)
