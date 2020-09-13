@@ -3,6 +3,8 @@ Dynamic Host Config Protocol
 
 最常見的情境是 Wi-Fi AP 配置靜態 IP 予進入此私有網域的設備如手機或筆電。（飛機上或是捷運內。）
 
+此協定屬於 OSI 七層中的第三層，邏輯網路層，故網管需要把三層的設備準備好喔～
+
 # Public IP within NAT
 
 通常家用或企業會向電信公司或 ISP 租用一個公有（Gloabl）IP 位址，然而這對需要管理網路的企業來說，相當不便，
