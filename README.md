@@ -40,7 +40,7 @@ ask: Hi 請問你是 DHCP server 嗎？我是新加入的成員，需要有個�
 
 # DHCP server/client
 
-主從式溝通模式，DHCP 採用 UDP (第四層傳輸層)來進行溝通，伺服器端阜號為 68，用戶端阜號為 67。
+主從式溝通模式，DHCP 採用 UDP (第四層傳輸層)來進行溝通，伺服器端阜號為 67，用戶端阜號為 68。
 
 # Config Procedures
 
