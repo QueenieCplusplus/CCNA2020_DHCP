@@ -44,29 +44,27 @@ ask: Hi 請問你是 DHCP server 嗎？我是新加入的成員，需要有個�
 
 # Config Procedures
 
-              Discovery
+              Discovery 用戶端→DHCP伺服器
 
                  |
 
                  V
 
-               Offer
+               Offer DHCP伺服器→用戶端
 
                 |
 
                 V
 
-              Request
+              Request 用戶端→DHCP伺服器
 
                 |
 
                 V
 
-               Ack
+               Ack DHCP伺服器→用戶端
 
-                |
-
-                V
+               
 
 # Free IP Resorces
 
