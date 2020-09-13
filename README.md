@@ -74,4 +74,3 @@ ask: Hi 請問你是 DHCP server 嗎？我是新加入的成員，需要有個�
 
 因為 IPv6 位址很多，並非如同 IPv4 位址那樣數量那麼有限，所以 DHCPv6 有另外的運作方式，此議題不詳述。
 
-(to be continued...)
