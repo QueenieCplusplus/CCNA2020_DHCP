@@ -18,4 +18,7 @@ Dynamic Host Config Protocol
 新設備進入此內部網路時，需要被配置一個私有的 Local 網段的 IP 位址，故此設備會發出廣播詢問 DHCP server，
 ask: Hi 請問你是 DHCP server 嗎？我是新加入的成員，需要有個能辨識的家庭位址。
 
+通常廣播網域中所有能夠接收廣播封包的設備都會回應或是過濾，但是在 DHCP 的 case 上，其他非 DHCP 功能的設備完全
+不會理會此類封包，只有真正具備 DHCP 功能的設備才會理會。
+
 (to be continued...)
