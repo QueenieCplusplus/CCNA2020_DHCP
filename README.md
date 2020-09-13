@@ -38,7 +38,7 @@ http://www.tsnien.idv.tw/Manager_WebBook/ppt/chap5/5-4-3%20DHCP%20封包格式.p
 
 3. valid time
 
-4. GW & DN (閘道路由位址與域名位址)
+4. GW & DNS (閘道路由位址與域名伺服器位址)
 
 # DHCP server/client
 
