@@ -13,4 +13,9 @@ Dynamic Host Config Protocol
 
 對於動態設置（分配）私有邏輯網路給設備是 DHCP 設備的功能與優勢，節省了網管人的靜態部署的不便。
 
+# Broadcast as query
+
+新設備進入此內部網路時，需要被配置一個私有的 Local 網段的 IP 位址，故此設備會發出廣播詢問 DHCP server，
+ask: Hi 請問你是 DHCP server 嗎？我是新加入的成員，需要有個能辨識的家庭位址。
+
 (to be continued...)
