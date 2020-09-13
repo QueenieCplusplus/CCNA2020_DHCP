@@ -40,17 +40,29 @@ ask: Hi 請問你是 DHCP server 嗎？我是新加入的成員，需要有個�
 
 # Config Procedures
 
-|
-V
+              Discovery
 
-|
-V
+                 |
 
-|
-V
+                 V
 
-|
-V
+               Offer
+
+                |
+
+                V
+
+              Request
+
+                |
+
+                V
+
+               Ack
+
+                |
+
+                V
 
 # Free IP Resorces
 
