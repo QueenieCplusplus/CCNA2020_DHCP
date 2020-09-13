@@ -31,6 +31,6 @@ ask: Hi 請問你是 DHCP server 嗎？我是新加入的成員，需要有個�
 
 3. valid time
 
-4. 
+4. GW & DN
 
 (to be continued...)
