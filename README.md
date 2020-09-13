@@ -38,6 +38,20 @@ ask: Hi 請問你是 DHCP server 嗎？我是新加入的成員，需要有個�
 
 4. GW & DN
 
+# Config Procedures
+
+|
+V
+
+|
+V
+
+|
+V
+
+|
+V
+
 # Free IP Resorces
 
 當設備關機或是離開此區域網域時，這些 IP 位址會歸還。
