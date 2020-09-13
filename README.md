@@ -30,6 +30,8 @@ ask: Hi 請問你是 DHCP server 嗎？我是新加入的成員，需要有個�
 
 具備動態配置主機協定功能的伺服器或是設備回應內容：
 
+http://www.tsnien.idv.tw/Manager_WebBook/ppt/chap5/5-4-3%20DHCP%20封包格式.pdf (詳見封包格式)
+
 1. stactic IP
 
 2. subnet (本機網域非遠端網域)
