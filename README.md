@@ -1,6 +1,7 @@
 # CCNA2020_DHCP
 Dynamic Host Config Protocol
 
+最常見的情境是 Wi-Fi AP 配置靜態 IP 予進入此私有網域的設備如手機或筆電。（飛機上或是捷運內。）
 
 # Public IP within NAT
 
